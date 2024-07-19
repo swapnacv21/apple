@@ -30,7 +30,7 @@ img{
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
-#h3{
+#sub{
     position: relative;
     left: 750px;
     bottom: 600px;
@@ -38,4 +38,40 @@ img{
     color:white;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
+}
+.h2{
+    position: absolute;
+    left: 850px;
+    bottom:1300px;
+    top:89%;
+    color:black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#sub1{
+    position: relative;
+    left: 750px;
+    bottom: 650px;
+    top:97%;
+    color:black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button1{
+    border-radius: 40%;
+    border-color: blue;
+    background-color: white;
+    color: blue;
+    position: relative;
+    bottom: 60px;
+    left:900px;
+    width: 80px;
+    height: 45px;
+}
+.button1:hover{
+    background-color: blue;
+    color: white;
+
 }

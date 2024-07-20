@@ -65,13 +65,32 @@ img{
     background-color: white;
     color: blue;
     position: relative;
-    bottom: 60px;
-    left:900px;
+    bottom: -30px;
+    left:-360px;
     width: 80px;
     height: 45px;
+    top:60px
+   
 }
 .button1:hover{
     background-color: blue;
     color: white;
 
+}
+.img3{
+    width:700px;
+    height: 550px;
+   padding-left: 550px;
+}
+.div3{
+    background-color: whitesmoke;
+    
+}
+.sub2{
+    background-color: rgba(51, 51, 51, 0.918);
+    color: white;
+    height: 45px;
+    text-align: center;
+
+    
 }

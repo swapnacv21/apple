@@ -155,3 +155,53 @@ img{
     background-color: blue;
     color:white
 }
+.div5{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column: 30px;
+    background-color: whitesmoke;
+   
+}
+.div5 > div{
+   padding: 10px;
+  
+}
+.h4{
+    position: absolute;
+    left: 290px;
+    bottom:1000px;
+    top:365%;
+    color:white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.sub4{
+    position: relative;
+    left: 220px;
+    bottom: 750px;
+    top:20%;
+    color:white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h5{
+    position: absolute;
+    top: 365%;
+    bottom: 100px;
+    left: 1200px;
+    text-align: center;
+    color:black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#img5{
+    padding: 10px;
+
+}
+#img6{
+    padding:89px 5px 5px 5px;
+    top:50px;
+
+}
